@@ -15,7 +15,7 @@ Para el manejo de datos, utilicé un servicio de Firebase llamado "Cloud Firesto
 Actualmente el servicio cuenta con una única colección que es para los usuarios.
 A continuación presento un "esquema" de como es la estructura de dicha colección de datos para los usuarios:
 
-users
+- users
 |_ name (String)
 |_ lastname (String)
 |_ birthdate (timestamp)
